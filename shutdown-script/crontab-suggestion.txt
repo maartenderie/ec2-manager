@@ -1,0 +1,2 @@
+# mkdir .log ;)
+ * * * * * cd /home/ubuntu/shutdown-script && ./run.sh >> ./log/latest.log 2>&1
